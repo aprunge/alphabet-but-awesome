@@ -268,6 +268,23 @@ public class Main {
         System.out.print(".");
     }
     public static void main(String[] args){
-        
+        g(true);
+        a(false);
+        r(false);
+        r(false);
+        e(false);
+        t(false);
+        t(false);
+        space();
+        i(false);
+        s(false);
+        space();
+        s(false);
+        o(false);
+        space();
+        g(false);
+        a(false);
+        y(false);
+        period();
     }
 }
