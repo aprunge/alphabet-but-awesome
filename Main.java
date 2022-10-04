@@ -8,6 +8,8 @@ public class Main {
         } else{
             System.out.print(a);
         }
+
+        return;
     }
 
     static void b(boolean caps){
@@ -18,6 +20,8 @@ public class Main {
         } else{
             System.out.print(b);
         }
+
+        return;
     }
 
     static void c(boolean caps){
@@ -28,6 +32,8 @@ public class Main {
         } else{
             System.out.print(c);
         }
+
+        return;
     }
 
     static void d(boolean caps){
@@ -38,6 +44,8 @@ public class Main {
         } else{
             System.out.print(d);
         }
+
+        return;
     }
 
     static void e(boolean caps){
@@ -48,6 +56,8 @@ public class Main {
         } else{
             System.out.print(e);
         }
+
+        return;
     }
 
     static void f(boolean caps){
@@ -58,6 +68,8 @@ public class Main {
         } else{
             System.out.print(f);
         }
+
+        return;
     }
 
     static void g(boolean caps){
@@ -68,6 +80,8 @@ public class Main {
         } else{
             System.out.print(g);
         }
+
+        return;
     }
 
     static void h(boolean caps){
@@ -78,6 +92,8 @@ public class Main {
         } else{
             System.out.print(h);
         }
+
+        return;
     }
 
     static void i(boolean caps){
@@ -88,6 +104,8 @@ public class Main {
         } else{
             System.out.print(i);
         }
+
+        return;
     }
 
     static void j(boolean caps){
@@ -98,6 +116,8 @@ public class Main {
         } else{
             System.out.print(j);
         }
+
+        return;
     }
 
     static void k(boolean caps){
@@ -108,6 +128,8 @@ public class Main {
         } else{
             System.out.print(k);
         }
+
+        return;
     }
 
     static void l(boolean caps){
@@ -118,6 +140,8 @@ public class Main {
         } else{
             System.out.print(l);
         }
+
+        return;
     }
 
     static void m(boolean caps){
@@ -128,6 +152,8 @@ public class Main {
         } else{
             System.out.print(m);
         }
+
+        return;
     }
 
     static void n(boolean caps){
@@ -138,6 +164,8 @@ public class Main {
         } else{
             System.out.print(n);
         }
+
+        return;
     }
 
     static void o(boolean caps){
@@ -148,6 +176,8 @@ public class Main {
         } else{
             System.out.print(o);
         }
+
+        return;
     }
 
     static void p(boolean caps){
@@ -158,6 +188,8 @@ public class Main {
         } else{
             System.out.print(p);
         }
+
+        return;
     }
 
     static void q(boolean caps){
@@ -168,6 +200,8 @@ public class Main {
         } else{
             System.out.print(q);
         }
+
+        return;
     }
 
     static void r(boolean caps){
@@ -178,6 +212,8 @@ public class Main {
         } else{
             System.out.print(r);
         }
+
+        return;
     }
 
     static void s(boolean caps){
@@ -188,6 +224,8 @@ public class Main {
         } else{
             System.out.print(s);
         }
+
+        return;
     }
 
     static void t(boolean caps){
@@ -198,6 +236,8 @@ public class Main {
         } else{
             System.out.print(t);
         }
+
+        return;
     }
 
     static void u(boolean caps){
@@ -208,6 +248,8 @@ public class Main {
         } else{
             System.out.print(u);
         }
+
+        return;
     }
 
     static void v(boolean caps){
@@ -218,6 +260,8 @@ public class Main {
         } else{
             System.out.print(v);
         }
+
+        return;
     }
 
     static void w(boolean caps){
@@ -228,6 +272,8 @@ public class Main {
         } else{
             System.out.print(w);
         }
+
+        return;
     }
 
     static void x(boolean caps){
@@ -238,6 +284,8 @@ public class Main {
         } else{
             System.out.print(x);
         }
+
+        return;
     }
 
     static void y(boolean caps){
@@ -248,6 +296,8 @@ public class Main {
         } else{
             System.out.print(y);
         }
+
+        return;
     }
 
     static void z(boolean caps){
@@ -258,6 +308,8 @@ public class Main {
         } else{
             System.out.print(z);
         }
+
+        return;
     }
 
     static void space(){
@@ -268,23 +320,6 @@ public class Main {
         System.out.print(".");
     }
     public static void main(String[] args){
-        g(true);
-        a(false);
-        r(false);
-        r(false);
-        e(false);
-        t(false);
-        t(false);
-        space();
-        i(false);
-        s(false);
-        space();
-        s(false);
-        o(false);
-        space();
-        g(false);
-        a(false);
-        y(false);
-        period();
+        
     }
 }
