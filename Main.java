@@ -314,11 +314,16 @@ public class Main {
 
     static void space(){
         System.out.print(" ");
+        
+        return;
     }
 
     static void period(){
         System.out.print(".");
+        
+        return;
     }
+    
     public static void main(String[] args){
         
     }
