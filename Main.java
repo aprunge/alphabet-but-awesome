@@ -1,330 +1,858 @@
 public class Main {
 
-    static void a(boolean caps){
-        String a = "a";
 
-        if (caps == true){
-            System.out.print(a.toUpperCase());
-        } else{
-            System.out.print(a);
+    static void u0061(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0061 = "a";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0061.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0061);
+
+
         }
 
+
         return;
+
+
     }
 
-    static void b(boolean caps){
-        String b = "b";
-        
-        if (caps == true){
-            System.out.print(b.toUpperCase());
-        } else{
-            System.out.print(b);
+    static void u0062(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0062 = "b";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0062.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0062);
+
+
         }
 
-        return;
-    }
-
-    static void c(boolean caps){
-        String c = "c";
-
-        if (caps == true){
-            System.out.print(c.toUpperCase());
-        } else{
-            System.out.print(c);
-        }
-
-        return;
-    }
-
-    static void d(boolean caps){
-        String d = "d";
-
-        if (caps == true){
-            System.out.print(d.toUpperCase());
-        } else{
-            System.out.print(d);
-        }
-
-        return;
-    }
-
-    static void e(boolean caps){
-        String e = "e";
-
-        if (caps == true){
-            System.out.print(e.toUpperCase());
-        } else{
-            System.out.print(e);
-        }
-
-        return;
-    }
-
-    static void f(boolean caps){
-        String f = "f";
-
-        if (caps = true){
-            System.out.print(f.toUpperCase());
-        } else{
-            System.out.print(f);
-        }
-
-        return;
-    }
-
-    static void g(boolean caps){
-        String g = "g";
-
-        if (caps == true){
-            System.out.print(g.toUpperCase());
-        } else{
-            System.out.print(g);
-        }
-
-        return;
-    }
-
-    static void h(boolean caps){
-        String h = "h";
-
-        if (caps == true){
-            System.out.print(h.toUpperCase());
-        } else{
-            System.out.print(h);
-        }
-
-        return;
-    }
-
-    static void i(boolean caps){
-        String i = "i";
-
-        if (caps == true){
-            System.out.print(i.toUpperCase());
-        } else{
-            System.out.print(i);
-        }
-
-        return;
-    }
-
-    static void j(boolean caps){
-        String j = "j";
-
-        if (caps == true){
-            System.out.print(j.toUpperCase());
-        } else{
-            System.out.print(j);
-        }
-
-        return;
-    }
-
-    static void k(boolean caps){
-        String k = "k";
-
-        if (caps == true){
-            System.out.print(k.toUpperCase());
-        } else{
-            System.out.print(k);
-        }
-
-        return;
-    }
-
-    static void l(boolean caps){
-        String l = "l";
-
-        if (caps == true){
-            System.out.print(l.toUpperCase());
-        } else{
-            System.out.print(l);
-        }
-
-        return;
-    }
-
-    static void m(boolean caps){
-        String m = "m";
-
-        if (caps == true){
-            System.out.print(m.toUpperCase());
-        } else{
-            System.out.print(m);
-        }
-
-        return;
-    }
-
-    static void n(boolean caps){
-        String n = "n";
-
-        if (caps == true){
-            System.out.print(n.toUpperCase());
-        } else{
-            System.out.print(n);
-        }
-
-        return;
-    }
-
-    static void o(boolean caps){
-        String o = "o";
-
-        if (caps == true){
-            System.out.print(o.toUpperCase());
-        } else{
-            System.out.print(o);
-        }
-
-        return;
-    }
-
-    static void p(boolean caps){
-        String p = "p";
-
-        if (caps == true){
-            System.out.print(p.toUpperCase());
-        } else{
-            System.out.print(p);
-        }
-
-        return;
-    }
-
-    static void q(boolean caps){
-        String q = "q";
-
-        if (caps == true){
-            System.out.print(q.toUpperCase());
-        } else{
-            System.out.print(q);
-        }
-
-        return;
-    }
-
-    static void r(boolean caps){
-        String r = "r";
-
-        if (caps == true){
-            System.out.print(r.toUpperCase());
-        } else{
-            System.out.print(r);
-        }
-
-        return;
-    }
-
-    static void s(boolean caps){
-        String s = "s";
-
-        if (caps == true){
-            System.out.print(s.toUpperCase());
-        } else{
-            System.out.print(s);
-        }
-
-        return;
-    }
-
-    static void t(boolean caps){
-        String t = "t";
-
-        if (caps == true){
-            System.out.print(t.toUpperCase());
-        } else{
-            System.out.print(t);
-        }
-
-        return;
-    }
-
-    static void u(boolean caps){
-        String u = "u";
-
-        if (caps == true){
-            System.out.print(u.toUpperCase());
-        } else{
-            System.out.print(u);
-        }
-
-        return;
-    }
-
-    static void v(boolean caps){
-        String v = "v";
-
-        if (caps == true){
-            System.out.print(v.toUpperCase());
-        } else{
-            System.out.print(v);
-        }
-
-        return;
-    }
-
-    static void w(boolean caps){
-        String w = "w";
-
-        if (caps == true){
-            System.out.print(w.toUpperCase());
-        } else{
-            System.out.print(w);
-        }
-
-        return;
-    }
-
-    static void x(boolean caps){
-        String x = "x";
-
-        if (caps == true){
-            System.out.print(x.toUpperCase());
-        } else{
-            System.out.print(x);
-        }
-
-        return;
-    }
-
-    static void y(boolean caps){
-        String y = "y";
-
-        if (caps == true){
-            System.out.print(y.toUpperCase());
-        } else{
-            System.out.print(y);
-        }
-
-        return;
-    }
-
-    static void z(boolean caps){
-        String z = "z";
-
-        if (caps == true){
-            System.out.print(z.toUpperCase());
-        } else{
-            System.out.print(z);
-        }
-
-        return;
-    }
-
-    static void space(){
-        System.out.print(" ");
         
         return;
+
+
     }
 
-    static void period(){
-        System.out.print(".");
-        
+
+    static void u0063(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0063 = "c";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0063.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0063);
+
+
+        }
+
+
         return;
+
+
     }
-    
-    public static void main(String[] args){
+
+
+    static void u0064(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0064 = "d";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0064.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0064);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u0065(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0065 = "e";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0065.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0065);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u0066(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0066 = "f";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0066.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0066);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u0067(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0067 = "g";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0067.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0067);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u0068(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0068 = "h";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0068.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0068);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u0069(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0069 = "i";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0069.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0069);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u006A(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u006A = "j";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u006A.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u006A);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u006B(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u006B = "k";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u006B.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u006B);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u006C(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u006C = "l";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u006C.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u006C);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u006D(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u006D = "m";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u006D.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u006D);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u006E(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u006E = "n";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u006E.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u006E);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u006F(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u006F = "o";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u006F.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u006F);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u0070(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0070 = "p";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0070.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0070);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u0071(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0071 = "q";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0071.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0071);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u0072(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0072 = "r";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0072.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0072);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u0073(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0073 = "s";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0073.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0073);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u0074(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0074 = "t";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0074.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0074);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u0075(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0075 = "u";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0075.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0075);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u0076(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0076 = "v";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0076.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0076);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u0077(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0077 = "w";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0077.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0077);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u0078(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0078 = "x"; 
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0078.toUpperCase());
+
+
+        } else {    
+
+
+            System.out.print(u0078);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u0079(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u0079 = "y";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u0079.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u0079);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u007A(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u007A = "z";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u007A.toUpperCase());
+
+
+        } else {
+
+
+            System.out.print(u007A);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u007B(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u007B = "{";
+
+
+        String u005B = "[";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u005B);
+
+
+        } else {
+
+
+            System.out.print(u007B);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u007C(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u007C = "|";
+
+
+        String u005C = "\\";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u005C);
+
+
+        } else {
+
+
+            System.out.print(u007C);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u007D(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u007D = "}";
+
+
+        String u005D = "]";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u005D);
+
+
+        } else {
+
+
+            System.out.print(u007D);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    static void u007E(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
+
+        String u007E = "~";
+
+
+        String u005E = "^";
+
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.out.print(u005E);
+
+
+        } else {
+
+
+            System.out.print(u007E);
+
+
+        }
+
+
+        return;
+
+
+    }
+
+
+    // space
+
+
+    static void u0020(boolean IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE) {
+
         
+        String u0020 = " ";
+
+        if (IS_THIS_A_CAPITAL_LETTER_TRUE_OR_FALSE == new Boolean("true")) {
+
+
+            System.exit(0);
+
+
+        } else {
+
+
+            System.out.print(" ");
+
+
+        }
+
+        return;
+
+
     }
+
+
+    public static void main(String[] args) {
+
+    }
+
+
 }
